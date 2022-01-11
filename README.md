@@ -1,4 +1,4 @@
-## <div align="center">𝑳𝒖𝒌𝒆 𝑯𝒐𝒅𝒅𝒔<br><a href="https://www.lukehodds.me">Webstie</a> ⬩ <a href="https://www.linkedin.com/in/lukehodds/">LinkedIn</a></div>  
+## <div align="center">𝑳𝒖𝒌𝒆 𝑯𝒐𝒅𝒅𝒔<br><a href="https://www.lukehodds.me">Website</a> ⬩ <a href="https://www.linkedin.com/in/lukehodds/">LinkedIn</a></div>  
 
 ### Hello there! 👋  
 I'm a full-stack developer in training, learning and challenging myself everyday. 💪
@@ -7,7 +7,7 @@ Hobbyist coder, finally taking the leap of faith to upload my own projects here 
 
 - 🔬 Currently working on my [portfolio site](http://www.lukehodds.me).
 - 🌱 Teaching myself full-stack development on Codecademy.
-- 🎮 Hobbies include coding, gamming and music.  
+- 🎮 Hobbies include coding, gaming and music.  
 
 ## Skill set
 
